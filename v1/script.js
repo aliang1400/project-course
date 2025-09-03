@@ -1,3 +1,3 @@
 function alertbox() {
-  alert("github course");
+  alert("Welcome in github course");
 }
